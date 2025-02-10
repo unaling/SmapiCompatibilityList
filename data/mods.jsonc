@@ -27433,6 +27433,7 @@
 			"id": "bcmpinc.WearMoreRings",
 			"nexus": 3214,
 			"github": "bcmpinc/StardewHack"
+			"brokeIn": "Stardew Valley 1.6.15"
 		},
 		{
 			"name": "Weather Controller",
